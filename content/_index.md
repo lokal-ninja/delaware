@@ -1,0 +1,1 @@
+Delaware is one of the 50 states of the United States, in the Mid-Atlantic region. It is bordered to the south and west by Maryland, north by Pennsylvania, and east by New Jersey and the Atlantic Ocean. The state takes its name from Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor. (Wikipedia)
