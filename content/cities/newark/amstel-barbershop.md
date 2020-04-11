@@ -1,0 +1,4 @@
+---
+title: "Amstel Barbershop"
+url: /newark/amstel-barbershop/
+---
