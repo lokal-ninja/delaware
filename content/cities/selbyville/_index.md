@@ -1,6 +1,6 @@
 ---
 title: Selbyville
 url: /selbyville/
-latitude: 38.4603917
-longitude: -75.22074380000001
+latitude: 38.4606407
+longitude: -75.22160480000001
 ---

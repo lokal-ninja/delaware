@@ -1,4 +1,4 @@
 ---
 title: "Food Lion"
-url: /milton/food-lion/
+url: /smyrna/food-lion/
 ---
