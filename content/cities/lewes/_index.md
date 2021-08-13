@@ -1,6 +1,6 @@
 ---
 title: Lewes
 url: /lewes/
-latitude: 38.7745565
-longitude: -75.1393498
+latitude: 38.7733961
+longitude: -75.1379574
 ---

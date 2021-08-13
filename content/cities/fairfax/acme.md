@@ -1,5 +1,5 @@
 ---
 title: "Acme"
-url: /fairfax-de/acme/
+url: /fairfax/acme/
 shop: supermarket
 ---
