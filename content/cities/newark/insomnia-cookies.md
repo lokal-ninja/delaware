@@ -1,5 +1,5 @@
 ---
-title: "insomnia cookies"
+title: "Insomnia Cookies"
 url: /newark/insomnia-cookies/
-shop: coffee
+shop: bakery
 ---
