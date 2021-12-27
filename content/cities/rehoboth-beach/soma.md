@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /rehoboth-beach/soma/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ocean View
 url: /ocean-view/
-latitude: 38.545112200000005
-longitude: -75.08907090000001
+latitude: 38.564
+longitude: -75.081
 ---

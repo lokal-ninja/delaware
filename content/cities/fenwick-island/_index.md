@@ -1,6 +1,6 @@
 ---
 title: Fenwick Island
 url: /fenwick-island/
-latitude: 38.4600242
-longitude: -75.0536246
+latitude: 38.452
+longitude: -75.064
 ---

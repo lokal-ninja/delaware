@@ -1,5 +1,5 @@
 ---
 title: "Rock Pile"
 url: /millsboro/rock-pile/
-shop: garden centre
+shop: Garten-Center
 ---

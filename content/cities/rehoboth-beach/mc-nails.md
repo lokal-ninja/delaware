@@ -1,5 +1,5 @@
 ---
 title: "MC Nails"
 url: /rehoboth-beach/mc-nails/
-shop: beauty
+shop: Kosmetik
 ---

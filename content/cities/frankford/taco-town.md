@@ -1,5 +1,5 @@
 ---
 title: "Taco Town"
 url: /frankford/taco-town/
-shop: convenience
+shop: Lebensmittel
 ---

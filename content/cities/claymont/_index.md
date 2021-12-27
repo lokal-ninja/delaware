@@ -1,6 +1,6 @@
 ---
 title: Claymont
 url: /claymont/
-latitude: 39.8006685
-longitude: -75.4596404
+latitude: 39.813
+longitude: -75.444
 ---

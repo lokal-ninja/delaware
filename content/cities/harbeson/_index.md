@@ -1,6 +1,6 @@
 ---
 title: Harbeson
 url: /harbeson/
-latitude: 38.7248347
-longitude: -75.2849123
+latitude: 38.674
+longitude: -75.236
 ---

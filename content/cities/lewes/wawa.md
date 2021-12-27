@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /lewes/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

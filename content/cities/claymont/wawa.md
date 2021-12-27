@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /claymont/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

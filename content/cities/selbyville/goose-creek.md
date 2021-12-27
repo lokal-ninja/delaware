@@ -1,5 +1,5 @@
 ---
 title: "Goose Creek"
 url: /selbyville/goose-creek/
-shop: convenience
+shop: Lebensmittel
 ---

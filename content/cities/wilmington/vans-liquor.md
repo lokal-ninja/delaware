@@ -1,5 +1,5 @@
 ---
 title: "Van's Liquor"
 url: /wilmington/vans-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

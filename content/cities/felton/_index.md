@@ -1,6 +1,6 @@
 ---
 title: Felton
 url: /felton/
-latitude: 39.008446400000004
-longitude: -75.5779807
+latitude: 39.01
+longitude: -75.576
 ---

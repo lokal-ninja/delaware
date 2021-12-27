@@ -1,5 +1,5 @@
 ---
 title: "SAS Rehoboth"
 url: /rehoboth-beach/sas-rehoboth/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bethany Beach
 url: /bethany-beach/
-latitude: 38.5379676
-longitude: -75.0588646
+latitude: 38.54
+longitude: -75.073
 ---

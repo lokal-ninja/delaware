@@ -1,6 +1,6 @@
 ---
 title: Bear
 url: /bear/
-latitude: 39.6292788
-longitude: -75.6582628
+latitude: 39.644
+longitude: -75.639
 ---

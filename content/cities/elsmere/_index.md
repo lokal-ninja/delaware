@@ -1,6 +1,6 @@
 ---
 title: Elsmere
 url: /elsmere/
-latitude: 39.7380793
-longitude: -75.59591970000001
+latitude: 39.739
+longitude: -75.589
 ---

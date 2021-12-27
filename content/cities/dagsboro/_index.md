@@ -1,6 +1,6 @@
 ---
 title: Dagsboro
 url: /dagsboro/
-latitude: 38.549280100000004
-longitude: -75.2457443
+latitude: 38.554
+longitude: -75.221
 ---

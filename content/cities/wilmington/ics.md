@@ -1,5 +1,5 @@
 ---
 title: "ICS"
 url: /wilmington/ics/
-shop: doityourself
+shop: Baumarkt
 ---

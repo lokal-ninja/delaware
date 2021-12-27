@@ -1,6 +1,6 @@
 ---
 title: Blades
 url: /blades/
-latitude: 38.6356605
-longitude: -75.6093632
+latitude: 38.629
+longitude: -75.609
 ---

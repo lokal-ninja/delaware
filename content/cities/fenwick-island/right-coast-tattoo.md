@@ -1,5 +1,5 @@
 ---
 title: "Right Coast Tattoo"
 url: /fenwick-island/right-coast-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

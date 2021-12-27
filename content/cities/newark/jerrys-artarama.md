@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Artarama"
 url: /newark/jerrys-artarama/
-shop: craft
+shop: Basteln
 ---
