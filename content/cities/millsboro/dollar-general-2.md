@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /millsboro/dollar-general-2/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /rehoboth-beach/skechers/
-shop: Schuhe
+shop: shoes
 ---

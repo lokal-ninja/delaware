@@ -1,5 +1,5 @@
 ---
 title: "Unique Impressions"
 url: /newark/unique-impressions/
-shop: Schreibwaren
+shop: office supplies
 ---

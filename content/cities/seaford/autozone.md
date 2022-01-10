@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /seaford/autozone/
-shop: Autoteile
+shop: car parts
 ---

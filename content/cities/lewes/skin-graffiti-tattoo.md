@@ -1,5 +1,5 @@
 ---
 title: "Skin Graffiti Tattoo"
 url: /lewes/skin-graffiti-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

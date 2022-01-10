@@ -1,5 +1,5 @@
 ---
 title: "Shamrock Printing Company"
 url: /newark/shamrock-printing-company/
-shop: Schreibwaren
+shop: office supplies
 ---

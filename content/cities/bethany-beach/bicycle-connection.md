@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Connection"
 url: /bethany-beach/bicycle-connection/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /milford/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pocket Liquors"
 url: /new-castle/pocket-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Auto Repair"
 url: /millville/atlantic-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

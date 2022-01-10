@@ -1,5 +1,5 @@
 ---
 title: "Ricciardi Brothers"
 url: /newark/ricciardi-brothers/
-shop: Farben
+shop: paint
 ---

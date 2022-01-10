@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /rehoboth-beach/asics/
-shop: Schuhe
+shop: shoes
 ---

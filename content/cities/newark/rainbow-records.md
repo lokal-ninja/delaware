@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Records"
 url: /newark/rainbow-records/
-shop: Musik
+shop: music
 ---

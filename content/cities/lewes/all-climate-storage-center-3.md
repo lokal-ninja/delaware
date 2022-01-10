@@ -1,5 +1,5 @@
 ---
 title: "All Climate Storage Center"
 url: /lewes/all-climate-storage-center-3/
-shop: Mieten
+shop: storage rental
 ---

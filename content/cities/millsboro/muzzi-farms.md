@@ -1,5 +1,5 @@
 ---
 title: "Muzzi Farms"
 url: /millsboro/muzzi-farms/
-shop: Hofladen
+shop: farm
 ---

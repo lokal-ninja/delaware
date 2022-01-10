@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /millsboro/roses/
-shop: Kramladen
+shop: variety store
 ---

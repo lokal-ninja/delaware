@@ -1,5 +1,5 @@
 ---
 title: "Old World Breads"
 url: /lewes/old-world-breads/
-shop: Bäckerei
+shop: bakery
 ---

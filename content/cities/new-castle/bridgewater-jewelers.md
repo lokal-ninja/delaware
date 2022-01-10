@@ -1,5 +1,5 @@
 ---
 title: "Bridgewater Jewelers"
 url: /new-castle/bridgewater-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

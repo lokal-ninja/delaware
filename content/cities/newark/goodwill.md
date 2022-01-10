@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /newark/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

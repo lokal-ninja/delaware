@@ -1,5 +1,5 @@
 ---
 title: "Polo Ralph Lauren"
 url: /rehoboth-beach/polo-ralph-lauren/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blooming Boutique"
 url: /millsboro/blooming-boutique/
-shop: Kleidung
+shop: clothes
 ---

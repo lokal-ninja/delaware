@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /rehoboth-beach/champion/
-shop: Kleidung
+shop: clothes
 ---

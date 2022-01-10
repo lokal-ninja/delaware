@@ -1,5 +1,5 @@
 ---
 title: "Fleischauer Funeral Home"
 url: /greenwood/fleischauer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

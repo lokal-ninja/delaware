@@ -1,5 +1,5 @@
 ---
 title: "Nails at Taormina"
 url: /millsboro/nails-at-taormina/
-shop: Kosmetik
+shop: beauty
 ---

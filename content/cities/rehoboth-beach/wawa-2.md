@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /rehoboth-beach/wawa-2/
-shop: Lebensmittel
+shop: convenience
 ---

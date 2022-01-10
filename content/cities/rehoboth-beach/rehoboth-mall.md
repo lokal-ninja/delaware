@@ -1,5 +1,5 @@
 ---
 title: "Rehoboth Mall"
 url: /rehoboth-beach/rehoboth-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amstel Barbershop"
 url: /newark/amstel-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

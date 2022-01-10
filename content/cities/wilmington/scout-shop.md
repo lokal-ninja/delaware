@@ -1,5 +1,5 @@
 ---
 title: "Scout Shop"
 url: /wilmington/scout-shop/
-shop: Allgemein
+shop: shop
 ---
