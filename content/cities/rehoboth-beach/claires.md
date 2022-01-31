@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /rehoboth-beach/claires/
-shop: shop
+shop: boutique
 ---
