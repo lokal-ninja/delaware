@@ -1,6 +1,6 @@
 ---
 title: Newark
 url: /newark/
-latitude: 39.685
-longitude: -75.742
+latitude: 39.683
+longitude: -75.748
 ---
