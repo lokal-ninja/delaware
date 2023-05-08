@@ -1,5 +1,5 @@
 ---
 title: "Ogden Supply Company"
-url: /ogden/ogden-supply-company/
+url: /upper-chichester/ogden-supply-company/
 shop: doityourself
 ---
