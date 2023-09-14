@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /millsboro/wawa/
+url: /millsboro/wawa-john-j-williams-highway/
 shop: convenience
 ---

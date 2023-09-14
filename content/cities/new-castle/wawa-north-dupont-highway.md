@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /new-castle/wawa/
+url: /new-castle/wawa-north-dupont-highway/
 shop: convenience
 ---

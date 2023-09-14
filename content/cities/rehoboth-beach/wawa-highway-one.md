@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /rehoboth-beach/wawa/
+url: /rehoboth-beach/wawa-highway-one/
 shop: convenience
 ---

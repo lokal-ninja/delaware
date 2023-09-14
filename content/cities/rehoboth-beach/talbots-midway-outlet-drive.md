@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
-url: /rehoboth-beach/talbots/
+url: /rehoboth-beach/talbots-midway-outlet-drive/
 shop: clothes
 ---

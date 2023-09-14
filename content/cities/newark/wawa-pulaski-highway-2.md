@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /newark/wawa/
+url: /newark/wawa-pulaski-highway-2/
 shop: convenience
 ---
