@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /claymont/wawa-ridge-road/
+url: /claymont/wawa-naamans-road/
 shop: convenience
 ---
