@@ -1,6 +1,6 @@
 ---
 title: Christiana
 url: /christiana/
-latitude: 39.669
-longitude: -75.666
+latitude: 39.667
+longitude: -75.672
 ---
