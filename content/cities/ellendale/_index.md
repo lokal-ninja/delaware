@@ -1,6 +1,6 @@
 ---
 title: Ellendale
 url: /ellendale/
-latitude: 38.806
-longitude: -75.437
+latitude: 38.808
+longitude: -75.44
 ---

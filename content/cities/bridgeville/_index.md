@@ -1,6 +1,6 @@
 ---
 title: Bridgeville
 url: /bridgeville/
-latitude: 38.739
-longitude: -75.593
+latitude: 38.719
+longitude: -75.585
 ---
