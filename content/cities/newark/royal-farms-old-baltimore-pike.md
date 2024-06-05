@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /millsboro/royal-farms-commerce-drive/
+url: /newark/royal-farms-old-baltimore-pike/
 shop: convenience
 ---
