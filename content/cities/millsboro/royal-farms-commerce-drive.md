@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /milford/royal-farms-silicato-parkway/
+url: /millsboro/royal-farms-commerce-drive/
 shop: convenience
 ---
