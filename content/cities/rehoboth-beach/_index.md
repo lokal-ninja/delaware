@@ -1,6 +1,6 @@
 ---
 title: Rehoboth Beach
 url: /rehoboth-beach/
-latitude: 38.716
-longitude: -75.08
+latitude: 38.72
+longitude: -75.115
 ---
