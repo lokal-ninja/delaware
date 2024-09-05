@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /hockessin/acme/
-shop: supermarket
+shop: Supermarkt
 ---

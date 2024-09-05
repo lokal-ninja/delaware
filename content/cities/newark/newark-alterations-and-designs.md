@@ -1,5 +1,5 @@
 ---
 title: "Newark Alterations and Designs"
 url: /newark/newark-alterations-and-designs/
-shop: clothes
+shop: Kleidung
 ---

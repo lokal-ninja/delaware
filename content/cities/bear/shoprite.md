@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /bear/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

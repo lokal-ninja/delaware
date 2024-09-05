@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /rehoboth-beach/chicos/
-shop: clothes
+shop: Kleidung
 ---

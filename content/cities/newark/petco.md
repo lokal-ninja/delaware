@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /newark/petco/
-shop: pet
+shop: Tiere
 ---

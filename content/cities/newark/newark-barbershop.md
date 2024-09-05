@@ -1,5 +1,5 @@
 ---
 title: "Newark Barbershop"
 url: /newark/newark-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /bear/giant/
-shop: supermarket
+shop: Supermarkt
 ---

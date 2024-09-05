@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /newark/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JAG Electrical Sales"
 url: /new-castle/jag-electrical-sales/
-shop: shop
+shop: Allgemein
 ---

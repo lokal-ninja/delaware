@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /milford/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

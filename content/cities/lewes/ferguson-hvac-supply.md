@@ -1,5 +1,5 @@
 ---
 title: "Ferguson HVAC Supply"
 url: /lewes/ferguson-hvac-supply/
-shop: shop
+shop: Allgemein
 ---

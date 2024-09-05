@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /newark/trek/
-shop: bicycle
+shop: Fahrrad
 ---

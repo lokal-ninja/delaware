@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /millsboro/giant/
-shop: supermarket
+shop: Supermarkt
 ---

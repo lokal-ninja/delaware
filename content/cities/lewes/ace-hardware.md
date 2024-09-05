@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /lewes/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

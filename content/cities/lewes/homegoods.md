@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lewes/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

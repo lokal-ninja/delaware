@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /seaford/gamestop/
-shop: video games
+shop: Videospiele
 ---

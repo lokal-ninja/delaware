@@ -1,5 +1,5 @@
 ---
 title: "CK Liquor Locker"
 url: /millsboro/ck-liquor-locker/
-shop: alcohol
+shop: Spirituosen
 ---

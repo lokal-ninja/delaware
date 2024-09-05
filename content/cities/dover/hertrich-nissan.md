@@ -1,5 +1,5 @@
 ---
 title: "Hertrich Nissan"
 url: /dover/hertrich-nissan/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PostNet"
 url: /newark/postnet/
-shop: shop
+shop: Allgemein
 ---

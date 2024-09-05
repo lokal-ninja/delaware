@@ -1,5 +1,5 @@
 ---
 title: "Top Nails"
 url: /new-castle/top-nails/
-shop: beauty
+shop: Kosmetik
 ---

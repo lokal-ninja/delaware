@@ -1,5 +1,5 @@
 ---
 title: "Fehrenbachs"
 url: /lewes/fehrenbachs/
-shop: flooring
+shop: Fußböden
 ---

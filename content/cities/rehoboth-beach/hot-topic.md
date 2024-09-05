@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /rehoboth-beach/hot-topic/
-shop: clothes
+shop: Kleidung
 ---

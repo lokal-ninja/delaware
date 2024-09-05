@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /middletown/giant/
-shop: supermarket
+shop: Supermarkt
 ---

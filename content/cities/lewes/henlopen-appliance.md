@@ -1,5 +1,5 @@
 ---
 title: "Henlopen Appliance"
 url: /lewes/henlopen-appliance/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /wilmington/spencers/
-shop: gift
+shop: Andenken
 ---

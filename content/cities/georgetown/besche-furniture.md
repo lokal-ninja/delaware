@@ -1,5 +1,5 @@
 ---
 title: "Besche Furniture"
 url: /georgetown/besche-furniture/
-shop: furniture
+shop: Möbel
 ---

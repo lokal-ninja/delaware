@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /millville/giant/
-shop: supermarket
+shop: Supermarkt
 ---

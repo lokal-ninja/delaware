@@ -1,5 +1,5 @@
 ---
 title: "Yuppy Puppy"
 url: /bethany-beach/yuppy-puppy/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Computer Jocks"
 url: /bear/the-computer-jocks/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CELLFUN"
 url: /wilmington/cellfun/
-shop: mobile phone
+shop: Handy
 ---

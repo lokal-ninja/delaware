@@ -1,5 +1,5 @@
 ---
 title: "The Surf Shanty"
 url: /dewey-beach/the-surf-shanty/
-shop: sports
+shop: Sport
 ---

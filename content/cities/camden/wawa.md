@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /camden/wawa/
-shop: convenience
+shop: Lebensmittel
 ---
