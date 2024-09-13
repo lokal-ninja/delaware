@@ -1,5 +1,5 @@
 ---
 title: "Chefs’ Haven"
 url: /hockessin/chefs-haven/
-shop: Supermarkt
+shop: supermarket
 ---

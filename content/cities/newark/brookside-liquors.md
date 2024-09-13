@@ -1,5 +1,5 @@
 ---
 title: "Brookside Liquors"
 url: /newark/brookside-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

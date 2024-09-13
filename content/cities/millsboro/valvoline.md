@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /millsboro/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

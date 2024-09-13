@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rehoboth-beach/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Designer Consigner"
 url: /hockessin/designer-consigner/
-shop: Gebrauchtwaren
+shop: charity
 ---

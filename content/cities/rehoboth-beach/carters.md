@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /rehoboth-beach/carters/
-shop: Kleidung
+shop: clothes
 ---

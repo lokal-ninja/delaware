@@ -1,5 +1,5 @@
 ---
 title: "Delaware Auto Exchange"
 url: /felton/delaware-auto-exchange/
-shop: Autohaus
+shop: car
 ---

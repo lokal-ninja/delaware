@@ -1,5 +1,5 @@
 ---
 title: "Evo Repair Shop"
 url: /wilmington/evo-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

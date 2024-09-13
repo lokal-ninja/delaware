@@ -1,5 +1,5 @@
 ---
 title: "Bethany Resort Furnishings"
 url: /bethany-beach/bethany-resort-furnishings/
-shop: Möbel
+shop: furniture
 ---

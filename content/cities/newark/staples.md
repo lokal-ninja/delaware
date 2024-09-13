@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /newark/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

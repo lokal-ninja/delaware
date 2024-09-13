@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Self Storage"
 url: /millsboro/atlantic-self-storage/
-shop: Mieten
+shop: storage rental
 ---

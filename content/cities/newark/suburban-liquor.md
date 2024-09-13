@@ -1,5 +1,5 @@
 ---
 title: "Suburban Liquor"
 url: /newark/suburban-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

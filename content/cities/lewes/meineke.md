@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /lewes/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

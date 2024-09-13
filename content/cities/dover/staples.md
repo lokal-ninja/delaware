@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /dover/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

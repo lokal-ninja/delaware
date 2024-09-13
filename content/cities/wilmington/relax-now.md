@@ -1,5 +1,5 @@
 ---
 title: "Relax Now"
 url: /wilmington/relax-now/
-shop: Massage
+shop: massage
 ---

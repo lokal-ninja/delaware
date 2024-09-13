@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /newark/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Cycles"
 url: /rehoboth-beach/atlantic-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

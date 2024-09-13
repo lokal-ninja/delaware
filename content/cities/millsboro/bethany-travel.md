@@ -1,5 +1,5 @@
 ---
 title: "Bethany Travel"
 url: /millsboro/bethany-travel/
-shop: Reisebüro
+shop: travel agency
 ---

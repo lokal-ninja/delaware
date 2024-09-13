@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Ford"
 url: /georgetown/boulevard-ford/
-shop: Autohaus
+shop: car
 ---

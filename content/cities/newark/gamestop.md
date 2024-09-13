@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /newark/gamestop/
-shop: Videospiele
+shop: video games
 ---

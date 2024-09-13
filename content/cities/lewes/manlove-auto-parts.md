@@ -1,5 +1,5 @@
 ---
 title: "Manlove Auto Parts"
 url: /lewes/manlove-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oanh's Nails"
 url: /lewes/oanhs-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /newark/shell/
-shop: Lebensmittel
+shop: convenience
 ---

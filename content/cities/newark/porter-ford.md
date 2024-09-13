@@ -1,5 +1,5 @@
 ---
 title: "Porter Ford"
 url: /newark/porter-ford/
-shop: Autohaus
+shop: car
 ---

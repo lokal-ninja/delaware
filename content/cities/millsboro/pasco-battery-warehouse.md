@@ -1,5 +1,5 @@
 ---
 title: "Pasco Battery Warehouse"
 url: /millsboro/pasco-battery-warehouse/
-shop: Autoteile
+shop: car parts
 ---

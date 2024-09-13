@@ -1,5 +1,5 @@
 ---
 title: "Park Avenue Dry Cleaners"
 url: /rehoboth-beach/park-avenue-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

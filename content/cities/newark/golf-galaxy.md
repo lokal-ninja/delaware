@@ -1,5 +1,5 @@
 ---
 title: "Golf Galaxy"
 url: /newark/golf-galaxy/
-shop: Sport
+shop: sports
 ---

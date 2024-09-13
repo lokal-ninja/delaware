@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /newark/michaels/
-shop: Basteln
+shop: craft
 ---

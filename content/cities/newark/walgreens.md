@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /newark/walgreens/
-shop: Drogerie
+shop: chemist
 ---

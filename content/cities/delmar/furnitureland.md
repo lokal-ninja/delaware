@@ -1,5 +1,5 @@
 ---
 title: "FurnitureLand"
 url: /delmar/furnitureland/
-shop: Möbel
+shop: furniture
 ---

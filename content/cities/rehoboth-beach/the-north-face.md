@@ -1,5 +1,5 @@
 ---
 title: "The North Face"
 url: /rehoboth-beach/the-north-face/
-shop: Kleidung
+shop: clothes
 ---

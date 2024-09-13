@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lewes/autozone/
-shop: Autoteile
+shop: car parts
 ---

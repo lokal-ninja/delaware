@@ -1,5 +1,5 @@
 ---
 title: "Bayville Bakery"
 url: /selbyville/bayville-bakery/
-shop: Bäckerei
+shop: bakery
 ---

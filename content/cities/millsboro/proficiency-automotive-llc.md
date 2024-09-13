@@ -1,5 +1,5 @@
 ---
 title: "Proficiency Automotive LLC"
 url: /millsboro/proficiency-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

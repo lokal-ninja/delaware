@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /newark/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /rehoboth-beach/west-marine/
-shop: Boot
+shop: boat
 ---

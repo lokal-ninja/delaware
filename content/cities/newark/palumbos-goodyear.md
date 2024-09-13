@@ -1,5 +1,5 @@
 ---
 title: "Palumbo's Goodyear"
 url: /newark/palumbos-goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

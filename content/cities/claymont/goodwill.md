@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /claymont/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

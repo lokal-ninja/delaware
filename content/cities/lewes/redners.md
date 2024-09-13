@@ -1,5 +1,5 @@
 ---
 title: "Redner's"
 url: /lewes/redners/
-shop: Supermarkt
+shop: supermarket
 ---

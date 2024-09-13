@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /wilmington/dollar-tree-silverside-road/
-shop: Kramladen
+shop: variety store
 ---

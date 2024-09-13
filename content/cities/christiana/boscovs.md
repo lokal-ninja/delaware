@@ -1,5 +1,5 @@
 ---
 title: "Boscov's"
 url: /christiana/boscovs/
-shop: Warenhaus
+shop: department store
 ---

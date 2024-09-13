@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /wilmington/shoprite-south-walnut-street/
-shop: Supermarkt
+shop: supermarket
 ---

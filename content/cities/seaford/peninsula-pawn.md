@@ -1,5 +1,5 @@
 ---
 title: "Peninsula Pawn"
 url: /seaford/peninsula-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

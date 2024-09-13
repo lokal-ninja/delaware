@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /dover/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

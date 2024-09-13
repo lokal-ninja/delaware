@@ -1,5 +1,5 @@
 ---
 title: "Millsboro Music"
 url: /millsboro/millsboro-music/
-shop: Instrumente
+shop: musical instrument
 ---

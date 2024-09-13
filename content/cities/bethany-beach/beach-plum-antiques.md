@@ -1,5 +1,5 @@
 ---
 title: "Beach Plum Antiques"
 url: /bethany-beach/beach-plum-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

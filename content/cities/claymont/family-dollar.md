@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /claymont/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

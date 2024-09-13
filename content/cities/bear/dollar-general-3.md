@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /bear/dollar-general-3/
-shop: Kramladen
+shop: variety store
 ---

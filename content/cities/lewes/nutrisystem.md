@@ -1,5 +1,5 @@
 ---
 title: "Nutrisystem"
 url: /lewes/nutrisystem/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

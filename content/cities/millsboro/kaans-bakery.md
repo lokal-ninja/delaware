@@ -1,5 +1,5 @@
 ---
 title: "Kaan's Bakery"
 url: /millsboro/kaans-bakery/
-shop: Bäckerei
+shop: bakery
 ---

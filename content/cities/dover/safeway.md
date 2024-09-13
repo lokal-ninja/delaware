@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /dover/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

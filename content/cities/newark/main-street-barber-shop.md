@@ -1,5 +1,5 @@
 ---
 title: "Main Street Barber Shop"
 url: /newark/main-street-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

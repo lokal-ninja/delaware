@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /rehoboth-beach/talbots/
-shop: Kleidung
+shop: clothes
 ---

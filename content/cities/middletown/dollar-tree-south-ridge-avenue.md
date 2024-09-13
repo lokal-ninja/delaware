@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /middletown/dollar-tree-south-ridge-avenue/
-shop: Kramladen
+shop: variety store
 ---

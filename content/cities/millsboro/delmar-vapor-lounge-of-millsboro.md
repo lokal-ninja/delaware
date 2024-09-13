@@ -1,5 +1,5 @@
 ---
 title: "Delmar Vapor Lounge of Millsboro"
 url: /millsboro/delmar-vapor-lounge-of-millsboro/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

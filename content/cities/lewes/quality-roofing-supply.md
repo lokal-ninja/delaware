@@ -1,5 +1,5 @@
 ---
 title: "Quality Roofing Supply"
 url: /lewes/quality-roofing-supply/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /dover/the-vitamin-shoppe/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

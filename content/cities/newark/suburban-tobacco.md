@@ -1,5 +1,5 @@
 ---
 title: "Suburban Tobacco"
 url: /newark/suburban-tobacco/
-shop: Tabak
+shop: tobacco
 ---

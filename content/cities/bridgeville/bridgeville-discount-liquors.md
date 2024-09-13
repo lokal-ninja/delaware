@@ -1,5 +1,5 @@
 ---
 title: "Bridgeville Discount Liquors"
 url: /bridgeville/bridgeville-discount-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

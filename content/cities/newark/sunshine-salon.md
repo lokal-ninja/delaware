@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Salon"
 url: /newark/sunshine-salon/
-shop: Kosmetik
+shop: beauty
 ---

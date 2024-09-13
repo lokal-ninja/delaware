@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bear/gamestop/
-shop: Videospiele
+shop: video games
 ---

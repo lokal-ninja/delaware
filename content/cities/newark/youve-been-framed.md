@@ -1,5 +1,5 @@
 ---
 title: "You've Been Framed"
 url: /newark/youve-been-framed/
-shop: Rahmen
+shop: frame
 ---

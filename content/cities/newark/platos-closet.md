@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /newark/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

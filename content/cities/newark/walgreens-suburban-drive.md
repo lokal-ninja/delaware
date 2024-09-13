@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /newark/walgreens-suburban-drive/
-shop: Drogerie
+shop: chemist
 ---

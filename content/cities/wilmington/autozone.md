@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wilmington/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /seaford/dollar-general-north-porter-street/
-shop: Kramladen
+shop: variety store
 ---

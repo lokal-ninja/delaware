@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /newark/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /wilmington/zales/
-shop: Schmuck
+shop: jewelry
 ---

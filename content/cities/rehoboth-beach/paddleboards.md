@@ -1,5 +1,5 @@
 ---
 title: "Paddleboards"
 url: /rehoboth-beach/paddleboards/
-shop: Sport
+shop: sports
 ---

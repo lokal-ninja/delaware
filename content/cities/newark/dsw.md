@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /newark/dsw/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /wilmington/acme-north-dupont-street/
-shop: Supermarkt
+shop: supermarket
 ---

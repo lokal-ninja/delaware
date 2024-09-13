@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /rehoboth-beach/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

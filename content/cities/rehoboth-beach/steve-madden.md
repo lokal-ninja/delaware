@@ -1,5 +1,5 @@
 ---
 title: "Steve Madden"
 url: /rehoboth-beach/steve-madden/
-shop: Schuhe
+shop: shoes
 ---

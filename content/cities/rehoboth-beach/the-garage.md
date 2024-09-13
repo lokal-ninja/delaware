@@ -1,5 +1,5 @@
 ---
 title: "The Garage"
 url: /rehoboth-beach/the-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

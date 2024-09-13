@@ -1,5 +1,5 @@
 ---
 title: "Shore Stop"
 url: /dagsboro/shore-stop/
-shop: Lebensmittel
+shop: convenience
 ---

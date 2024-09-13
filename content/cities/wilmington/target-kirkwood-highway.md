@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /wilmington/target-kirkwood-highway/
-shop: Warenhaus
+shop: department store
 ---

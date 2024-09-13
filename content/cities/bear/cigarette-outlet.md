@@ -1,5 +1,5 @@
 ---
 title: "Cigarette Outlet"
 url: /bear/cigarette-outlet/
-shop: Tabak
+shop: tobacco
 ---

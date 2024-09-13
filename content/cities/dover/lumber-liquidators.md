@@ -1,5 +1,5 @@
 ---
 title: "Lumber Liquidators"
 url: /dover/lumber-liquidators/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quik Mart"
 url: /wilmington/quik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

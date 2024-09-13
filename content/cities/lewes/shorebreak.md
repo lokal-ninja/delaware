@@ -1,5 +1,5 @@
 ---
 title: "Shorebreak"
 url: /lewes/shorebreak/
-shop: Kleidung
+shop: clothes
 ---

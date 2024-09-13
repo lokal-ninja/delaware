@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /millsboro/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

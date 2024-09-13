@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /wilmington/lids/
-shop: Kleidung
+shop: clothes
 ---

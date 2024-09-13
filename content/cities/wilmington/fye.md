@@ -1,5 +1,5 @@
 ---
 title: "FYE"
 url: /wilmington/fye/
-shop: Musik
+shop: music
 ---

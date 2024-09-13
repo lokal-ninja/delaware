@@ -1,5 +1,5 @@
 ---
 title: "G-Vibes"
 url: /wilmington/g-vibes/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /wilmington/mattress-firm-kirkwood-highway/
-shop: Betten
+shop: bed
 ---

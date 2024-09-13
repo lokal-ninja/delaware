@@ -1,5 +1,5 @@
 ---
 title: "Delaware Beach Storage"
 url: /lewes/delaware-beach-storage/
-shop: Mieten
+shop: storage rental
 ---

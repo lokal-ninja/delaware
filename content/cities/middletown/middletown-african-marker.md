@@ -1,5 +1,5 @@
 ---
 title: "Middletown African Marker"
 url: /middletown/middletown-african-marker/
-shop: Supermarkt
+shop: supermarket
 ---

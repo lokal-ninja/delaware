@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /new-castle/staples/
-shop: Schreibwaren
+shop: office supplies
 ---
