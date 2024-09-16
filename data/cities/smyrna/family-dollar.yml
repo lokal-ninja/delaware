@@ -1,11 +1,11 @@
 id: 804255235
-type: way
+type: node
 latitude: 39.29573
 longitude: -75.61939
 postcode: "19977"
 city: Smyrna
-street: "West Glenwood Avenue"
-housenumber: 701
+street: West Glenwood Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

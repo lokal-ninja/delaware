@@ -1,11 +1,11 @@
 id: 690474508
-type: way
+type: node
 latitude: 39.44945
 longitude: -75.71498
 postcode: "19709"
 city: Middletown
-street: "East Main Street"
-housenumber: 50
+street: East Main Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "http://www.middletowncarcarede.com/"
+website: http://www.middletowncarcarede.com/

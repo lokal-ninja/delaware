@@ -1,11 +1,11 @@
 id: 230622136
-type: way
+type: node
 latitude: 38.58477
 longitude: -75.296
 postcode: "19966"
 city: Millsboro
-street: "Dupont Boulevard"
-housenumber: 28512
+street: Dupont Boulevard
+housenumber: "28512"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/837"
+opening_hours: 24/7
+website: https://www.wawa.com/locations/837

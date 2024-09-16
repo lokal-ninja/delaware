@@ -1,11 +1,11 @@
 id: 943684729
-type: way
+type: node
 latitude: 39.09893
 longitude: -75.54637
-postcode: "19934-1365"
+postcode: 19934-1365
 city: Camden
-street: "Walmart Drive"
-housenumber: 390
-phone: "+1 833-471-7112"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/de/camden/390-walmart-drive"
+street: Walmart Drive
+housenumber: "390"
+phone: +1 833-471-7112
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/de/camden/390-walmart-drive

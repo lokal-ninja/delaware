@@ -1,11 +1,11 @@
 id: 1072240037
-type: way
+type: node
 latitude: 39.39817
 longitude: -75.68556
 postcode: "19734"
 city: Townsend
-street: "Main Street"
-housenumber: 101
+street: Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/de/townsend/14910"
+website: https://www.dollargeneral.com/store-directory/de/townsend/14910

@@ -4,8 +4,8 @@ latitude: 39.63257
 longitude: -75.66517
 postcode: "19701"
 city: Bear
-street: "Governor's Place"
-housenumber: 1015
-phone: "+1 302-832-5144"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-19:00"
-website: "https://www.gamestop.com/store/us/de/bear/431/governors-square-gamestop"
+street: Governor's Place
+housenumber: "1015"
+phone: +1 302-832-5144
+opening_hours: Mo-Th 12:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-19:00
+website: https://www.gamestop.com/store/us/de/bear/431/governors-square-gamestop

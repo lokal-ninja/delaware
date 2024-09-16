@@ -1,11 +1,11 @@
 id: 746721426
-type: way
+type: node
 latitude: 39.68493
 longitude: -75.59304
 postcode: "19720"
 city: New Castle
-street: "West Basin Road"
-housenumber: 490
+street: West Basin Road
+housenumber: "490"
 phone: ""
 opening_hours: ""
-website: "https://afrcc.com"
+website: https://afrcc.com

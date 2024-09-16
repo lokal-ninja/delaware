@@ -4,8 +4,8 @@ latitude: 39.66803
 longitude: -75.77804
 postcode: "19711"
 city: Newark
-street: "Suburban Drive"
-housenumber: 334
-phone: "+1-302-368-1440"
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://fultonparty.com/"
+street: Suburban Drive
+housenumber: "334"
+phone: +1-302-368-1440
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-17:00; Su 10:00-16:00
+website: https://fultonparty.com/

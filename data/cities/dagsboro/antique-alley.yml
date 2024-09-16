@@ -1,11 +1,11 @@
 id: 521127381
-type: way
+type: node
 latitude: 38.54764
 longitude: -75.24963
 postcode: "19939"
 city: Dagsboro
-street: "Clayton Street"
-housenumber: 28336
+street: Clayton Street
+housenumber: "28336"
 phone: ""
 opening_hours: ""
 website: ""

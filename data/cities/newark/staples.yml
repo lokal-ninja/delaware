@@ -1,11 +1,11 @@
 id: 485354255
-type: way
+type: node
 latitude: 39.66149
 longitude: -75.72538
 postcode: "19713"
 city: Newark
-street: "Chestnut Hill Plaza"
-housenumber: 1
-phone: "+1 302-738-8020"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/de/newark/1-chestnut-hill-plaza"
+street: Chestnut Hill Plaza
+housenumber: "1"
+phone: +1 302-738-8020
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/de/newark/1-chestnut-hill-plaza

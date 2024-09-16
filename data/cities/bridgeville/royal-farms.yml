@@ -1,11 +1,11 @@
 id: 230622305
-type: way
+type: node
 latitude: 38.72389
 longitude: -75.58952
 postcode: "19933"
 city: Bridgeville
-street: "Sussex Highway"
-housenumber: 18657
+street: Sussex Highway
+housenumber: "18657"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 399273445
-type: way
+type: node
 latitude: 39.10361
 longitude: -75.54645
 postcode: "19934"
 city: Camden
-street: "Walmart Drive"
-housenumber: 263
-phone: "+1 302-698-9170"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5039/camden-de/whats-new"
+street: Walmart Drive
+housenumber: "263"
+phone: +1 302-698-9170
+opening_hours: 24/7
+website: https://www.walmart.com/store/5039/camden-de/whats-new

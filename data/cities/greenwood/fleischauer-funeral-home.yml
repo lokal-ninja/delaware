@@ -1,11 +1,11 @@
 id: 864056625
-type: way
+type: node
 latitude: 38.80722
 longitude: -75.59354
 postcode: "19950"
 city: Greenwood
-street: "West Market Street"
-housenumber: 16
+street: West Market Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

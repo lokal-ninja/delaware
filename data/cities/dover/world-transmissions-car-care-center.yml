@@ -1,11 +1,11 @@
 id: 350690916
-type: way
+type: node
 latitude: 39.19508
 longitude: -75.54817
 postcode: "19901"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 2860
+street: North Dupont Highway
+housenumber: "2860"
 phone: ""
 opening_hours: ""
-website: "http://www.worldtransmissions.pro/"
+website: http://www.worldtransmissions.pro/

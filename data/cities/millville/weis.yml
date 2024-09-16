@@ -1,11 +1,11 @@
 id: 361316589
-type: way
+type: node
 latitude: 38.54807
 longitude: -75.10762
 postcode: "19967"
 city: Millville
-street: "Old Mill Road"
-housenumber: 36761
-phone: "+1 302-537-5994"
-opening_hours: "07:00-22:00"
-website: "https://www.weismarkets.com/stores/weis-markets-millville-273/4349"
+street: Old Mill Road
+housenumber: "36761"
+phone: +1 302-537-5994
+opening_hours: 07:00-22:00
+website: https://www.weismarkets.com/stores/weis-markets-millville-273/4349

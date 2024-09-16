@@ -1,11 +1,11 @@
 id: 230622257
-type: way
+type: node
 latitude: 38.6702
 longitude: -75.38668
 postcode: "19947"
 city: Georgetown
-street: "Dupont Boulevard"
-housenumber: 22694
+street: Dupont Boulevard
+housenumber: "22694"
 phone: ""
 opening_hours: ""
-website: "https://www.firststatechevy.com/"
+website: https://www.firststatechevy.com/

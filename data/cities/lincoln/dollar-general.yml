@@ -1,11 +1,11 @@
 id: 1154118305
-type: way
+type: node
 latitude: 38.87066
 longitude: -75.42546
 postcode: "19960"
 city: Lincoln
-street: "Johnson Road"
-housenumber: 18380
+street: Johnson Road
+housenumber: "18380"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/de/lincoln/22298"
+website: https://www.dollargeneral.com/store-directory/de/lincoln/22298

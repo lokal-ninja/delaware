@@ -1,11 +1,11 @@
 id: 506845947
-type: way
+type: node
 latitude: 38.54771
 longitude: -75.11972
 postcode: "19967"
 city: Millville
-street: "Atlantic Avenue"
-housenumber: 35308
+street: Atlantic Avenue
+housenumber: "35308"
 phone: ""
 opening_hours: ""
-website: "https://mtpeddler.com/"
+website: https://mtpeddler.com/

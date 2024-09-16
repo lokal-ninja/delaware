@@ -1,11 +1,11 @@
 id: 508046769
-type: way
+type: node
 latitude: 38.52094
 longitude: -75.24159
 postcode: "19945"
 city: Frankford
-street: "Dupont Boulevard"
-housenumber: 34051
+street: Dupont Boulevard
+housenumber: "34051"
 phone: ""
 opening_hours: ""
 website: ""

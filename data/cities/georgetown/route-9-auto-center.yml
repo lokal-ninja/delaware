@@ -1,11 +1,11 @@
 id: 476195160
-type: way
+type: node
 latitude: 38.70598
 longitude: -75.34238
 postcode: "19947"
 city: Georgetown
-street: "Park Avenue"
-housenumber: 23422
-phone: "302-856-3941"
+street: Park Avenue
+housenumber: "23422"
+phone: 302-856-3941
 opening_hours: ""
 website: ""

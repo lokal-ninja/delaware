@@ -1,11 +1,11 @@
 id: 499129327
-type: way
+type: node
 latitude: 38.58102
 longitude: -75.29052
 postcode: "19966"
 city: Millsboro
-street: "Dupont Boulevard"
-housenumber: 28569
-phone: "(302) 934-9100"
+street: Dupont Boulevard
+housenumber: "28569"
+phone: (302) 934-9100
 opening_hours: ""
-website: "https://store.vioc.com/de/millsboro/oil-change-ba0039.html"
+website: https://store.vioc.com/de/millsboro/oil-change-ba0039.html

@@ -1,11 +1,11 @@
 id: 710515604
-type: way
+type: node
 latitude: 38.63094
 longitude: -75.17778
 postcode: "19966"
 city: Millsboro
-street: "Julias Lane"
-housenumber: 26019
+street: Julias Lane
+housenumber: "26019"
 phone: ""
 opening_hours: ""
 website: ""

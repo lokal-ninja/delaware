@@ -1,11 +1,11 @@
 id: 460426207
-type: way
+type: node
 latitude: 38.58859
 longitude: -75.29193
 postcode: "19966"
 city: Millsboro
-street: "Railroad Avenue"
-housenumber: 222
+street: Railroad Avenue
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

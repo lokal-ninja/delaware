@@ -1,11 +1,11 @@
 id: 207933807
-type: way
+type: node
 latitude: 39.64309
 longitude: -75.7295
 postcode: "19702"
 city: Newark
-street: "Old Baltimore Pike"
-housenumber: 865
+street: Old Baltimore Pike
+housenumber: "865"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

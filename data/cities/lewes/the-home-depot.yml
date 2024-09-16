@@ -1,11 +1,11 @@
 id: 488079595
-type: way
+type: node
 latitude: 38.74751
 longitude: -75.16327
 postcode: "19958"
 city: Lewes
-street: "Coastal Highway"
-housenumber: 17832
-phone: "+1 302-644-8270"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/rehoboth-beach/de/lewes/19958/1604"
+street: Coastal Highway
+housenumber: "17832"
+phone: +1 302-644-8270
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/rehoboth-beach/de/lewes/19958/1604

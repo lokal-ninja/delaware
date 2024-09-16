@@ -1,11 +1,11 @@
 id: 494961745
-type: way
+type: node
 latitude: 38.57207
 longitude: -75.28866
 postcode: "19966"
 city: Millsboro
-street: "Centerview Drive"
-housenumber: 26680
-phone: "+1 302-648-3089"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/de/millsboro-store2329.html"
+street: Centerview Drive
+housenumber: "26680"
+phone: +1 302-648-3089
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/de/millsboro-store2329.html

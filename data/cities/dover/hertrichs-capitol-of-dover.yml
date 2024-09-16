@@ -1,11 +1,11 @@
 id: 305748050
-type: way
+type: node
 latitude: 39.1422
 longitude: -75.51718
 postcode: "19901"
 city: Dover
-street: "South Dupont Highway"
-housenumber: 1127
+street: South Dupont Highway
+housenumber: "1127"
 phone: ""
 opening_hours: ""
-website: "https://www.hertrichscapitol.com"
+website: https://www.hertrichscapitol.com

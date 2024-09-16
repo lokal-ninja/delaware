@@ -1,11 +1,11 @@
 id: 690568419
-type: way
+type: node
 latitude: 39.60438
 longitude: -75.74632
 postcode: "19702"
 city: Newark
-street: "Pulaski Highway"
-housenumber: 2414
-phone: "+1 302-549-0215"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
-website: "https://www.mavis.com/locations/newark-pulaski-hwy-de/"
+street: Pulaski Highway
+housenumber: "2414"
+phone: +1 302-549-0215
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
+website: https://www.mavis.com/locations/newark-pulaski-hwy-de/

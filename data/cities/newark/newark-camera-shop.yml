@@ -4,8 +4,8 @@ latitude: 39.68311
 longitude: -75.75079
 postcode: "19711"
 city: Newark
-street: "East Main Street"
-housenumber: 63
-phone: "+1-302-368-3500"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "http://www.newarkcamera.com"
+street: East Main Street
+housenumber: "63"
+phone: +1-302-368-3500
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: http://www.newarkcamera.com

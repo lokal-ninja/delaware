@@ -1,11 +1,11 @@
 id: 470148677
-type: way
+type: node
 latitude: 38.80535
 longitude: -75.58332
 postcode: "19950"
 city: Greenwood
-street: "Schulz Road"
-housenumber: 2
+street: Schulz Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

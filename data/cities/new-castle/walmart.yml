@@ -1,11 +1,11 @@
 id: 48430666
-type: way
+type: node
 latitude: 39.65303
 longitude: -75.62198
 postcode: "19720"
 city: New Castle
-street: "Wilton Boulevard"
-housenumber: 117
-phone: "+1 302-324-0900"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2555/new-castle-de/whats-new"
+street: Wilton Boulevard
+housenumber: "117"
+phone: +1 302-324-0900
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2555/new-castle-de/whats-new

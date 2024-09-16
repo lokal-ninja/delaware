@@ -1,11 +1,11 @@
 id: 234814193
-type: way
+type: node
 latitude: 39.44837
 longitude: -75.72796
 postcode: "19709"
 city: Middletown
-street: "West Main Street"
-housenumber: 528
+street: West Main Street
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

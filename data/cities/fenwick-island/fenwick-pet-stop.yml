@@ -1,11 +1,11 @@
 id: 509472090
-type: way
+type: node
 latitude: 38.46162
 longitude: -75.05258
 postcode: "19944"
 city: Fenwick Island
-street: "Coastal Highway"
-housenumber: 1200
+street: Coastal Highway
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

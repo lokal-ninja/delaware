@@ -1,11 +1,11 @@
 id: 482767159
-type: way
+type: node
 latitude: 38.59188
 longitude: -75.29153
 postcode: "19966"
 city: Millsboro
-street: "East State Street"
-housenumber: 103
+street: East State Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 725474243
-type: way
+type: node
 latitude: 38.6828
 longitude: -75.18628
 postcode: "19958"
 city: Lewes
-street: "Robinsonville Road"
-housenumber: 22150
+street: Robinsonville Road
+housenumber: "22150"
 phone: ""
 opening_hours: ""
 website: ""

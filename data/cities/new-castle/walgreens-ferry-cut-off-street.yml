@@ -1,11 +1,11 @@
 id: 1013238767
-type: way
+type: node
 latitude: 39.66329
 longitude: -75.56869
 postcode: "19720"
 city: New Castle
-street: "Ferry Cut Off Street"
-housenumber: 740
+street: Ferry Cut Off Street
+housenumber: "740"
 phone: "+13023264630"
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-740+ferry+cut+off+st-new+castle-de-19720/id=11034"
+website: https://www.walgreens.com/locator/walgreens-740+ferry+cut+off+st-new+castle-de-19720/id=11034

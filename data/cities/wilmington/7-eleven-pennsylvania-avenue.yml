@@ -1,11 +1,11 @@
 id: 699031058
-type: way
+type: node
 latitude: 39.7556
 longitude: -75.56601
 postcode: "19806"
 city: Wilmington
-street: "Pennsylvania Avenue"
-housenumber: 1801
-phone: "+1 (302) 655-4864"
-opening_hours: "Mo-Su 05:30-23:00"
-website: "https://www.7-eleven.com/locations/de/wilmington/1801-pennsylvania-ave-20027"
+street: Pennsylvania Avenue
+housenumber: "1801"
+phone: +1 (302) 655-4864
+opening_hours: Mo-Su 05:30-23:00
+website: https://www.7-eleven.com/locations/de/wilmington/1801-pennsylvania-ave-20027

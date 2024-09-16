@@ -1,11 +1,11 @@
 id: 350692652
-type: way
+type: node
 latitude: 39.19835
 longitude: -75.55414
 postcode: "19901"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 1744
+street: North Dupont Highway
+housenumber: "1744"
 phone: ""
 opening_hours: ""
-website: "https://renedelynhairdesigns.com/"
+website: https://renedelynhairdesigns.com/

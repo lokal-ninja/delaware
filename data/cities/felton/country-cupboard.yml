@@ -1,11 +1,11 @@
 id: 1307602336
-type: way
+type: node
 latitude: 39.03258
 longitude: -75.72305
 postcode: "19943"
 city: Felton
-street: "Willow Grove Road"
-housenumber: 1200
+street: Willow Grove Road
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

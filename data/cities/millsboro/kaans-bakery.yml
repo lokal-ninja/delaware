@@ -1,11 +1,11 @@
 id: 494451951
-type: way
+type: node
 latitude: 38.5874
 longitude: -75.29064
 postcode: "19966"
 city: Millsboro
-street: "Wilson Highway"
-housenumber: 314
+street: Wilson Highway
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

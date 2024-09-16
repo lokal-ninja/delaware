@@ -1,11 +1,11 @@
 id: 731078807
-type: way
+type: node
 latitude: 38.64059
 longitude: -75.62193
 postcode: "19973"
 city: Seaford
-street: "North Shipley Street"
-housenumber: 306
+street: North Shipley Street
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

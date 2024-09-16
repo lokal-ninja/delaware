@@ -1,11 +1,11 @@
 id: 305814963
-type: way
+type: node
 latitude: 38.5914
 longitude: -75.29185
 postcode: "19966"
 city: Millsboro
-street: "Main Street"
-housenumber: 225
+street: Main Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

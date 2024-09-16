@@ -1,11 +1,11 @@
 id: 471927795
-type: way
+type: node
 latitude: 38.65112
 longitude: -75.60366
 postcode: "19973"
 city: Seaford
-street: "Norman Eskridge Highway"
-housenumber: 850
+street: Norman Eskridge Highway
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/de/seaford/850-norman-eskridge-hwy"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/de/seaford/850-norman-eskridge-hwy

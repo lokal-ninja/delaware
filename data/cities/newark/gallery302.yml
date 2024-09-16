@@ -4,8 +4,8 @@ latitude: 39.67717
 longitude: -75.76203
 postcode: "19711"
 city: Newark
-street: "South Main Street"
-housenumber: 211
+street: South Main Street
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-18:00
 website: ""

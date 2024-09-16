@@ -1,11 +1,11 @@
 id: 506193670
-type: way
+type: node
 latitude: 38.6944
 longitude: -75.39795
 postcode: "19947"
 city: Georgetown
-street: "Dupont Boulevard"
-housenumber: 20769
+street: Dupont Boulevard
+housenumber: "20769"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 520954792
-type: way
+type: node
 latitude: 38.46026
 longitude: -75.55657
 postcode: "19940"
 city: Delmar
-street: "Sussex Highway"
-housenumber: 38555
-phone: "+1 302-846-9191"
+street: Sussex Highway
+housenumber: "38555"
+phone: +1 302-846-9191
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/delaware/delmar/7710000071/"
+website: https://stores.ashleyfurniture.com/store/us/delaware/delmar/7710000071/

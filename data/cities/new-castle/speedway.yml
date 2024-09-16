@@ -2,10 +2,10 @@ id: 2258918522
 type: node
 latitude: 39.68339
 longitude: -75.58696
-postcode: "19720-0001"
+postcode: 19720-0001
 city: New Castle
-street: "North Dupont Highway"
-housenumber: 506
+street: North Dupont Highway
+housenumber: "506"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/DE/New-Castle/506-N-DUPONT-HWY"
+website: https://www.speedway.com/locations/DE/New-Castle/506-N-DUPONT-HWY

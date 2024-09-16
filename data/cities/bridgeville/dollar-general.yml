@@ -1,11 +1,11 @@
 id: 525508649
-type: way
+type: node
 latitude: 38.74449
 longitude: -75.5999
 postcode: "19933"
 city: Bridgeville
-street: "North Main Street"
-housenumber: 102
+street: North Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/de/bridgeville/7711"
+website: https://www.dollargeneral.com/store-directory/de/bridgeville/7711

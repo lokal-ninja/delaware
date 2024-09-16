@@ -1,11 +1,11 @@
 id: 710530803
-type: way
+type: node
 latitude: 38.6299
 longitude: -75.17124
 postcode: "19966"
 city: Millsboro
-street: "Long Neck Road"
-housenumber: 32645
+street: Long Neck Road
+housenumber: "32645"
 phone: ""
 opening_hours: ""
 website: ""

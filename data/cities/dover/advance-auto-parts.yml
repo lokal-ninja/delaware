@@ -1,11 +1,11 @@
 id: 690334004
-type: way
+type: node
 latitude: 39.15635
 longitude: -75.51307
 postcode: "19901"
 city: Dover
-street: "South Dupont Highway"
-housenumber: 422
-phone: "+1 302-735-4905"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/de/dover/422-s-dupont-hwy"
+street: South Dupont Highway
+housenumber: "422"
+phone: +1 302-735-4905
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/de/dover/422-s-dupont-hwy

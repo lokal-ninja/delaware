@@ -1,11 +1,11 @@
 id: 398735871
-type: way
+type: node
 latitude: 38.70308
 longitude: -75.40508
 postcode: "19947"
 city: Georgetown
-street: "College Park Lane"
-housenumber: 4
-phone: "+1 302-854-9454"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2791/georgetown-de/whats-new"
+street: College Park Lane
+housenumber: "4"
+phone: +1 302-854-9454
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2791/georgetown-de/whats-new

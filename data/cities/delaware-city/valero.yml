@@ -1,11 +1,11 @@
 id: 224808404
-type: way
+type: node
 latitude: 39.57405
 longitude: -75.5956
 postcode: "19706"
 city: Delaware City
-street: "5th Street"
-housenumber: 600
+street: 5th Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 231466980
-type: way
+type: node
 latitude: 38.58147
 longitude: -75.29404
 postcode: "19966"
 city: Millsboro
-street: "Dupont Boulevard"
-housenumber: 28544
+street: Dupont Boulevard
+housenumber: "28544"
 phone: ""
 opening_hours: ""
 website: ""

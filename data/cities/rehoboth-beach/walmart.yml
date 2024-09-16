@@ -1,11 +1,11 @@
 id: 484964655
-type: way
+type: node
 latitude: 38.72794
 longitude: -75.13225
 postcode: "19971"
 city: Rehoboth Beach
-street: "Rehoboth Mall Boulevard"
-housenumber: 18922
-phone: "+1 302-644-8014"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2419/rehoboth-beach-de/whats-new"
+street: Rehoboth Mall Boulevard
+housenumber: "18922"
+phone: +1 302-644-8014
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2419/rehoboth-beach-de/whats-new

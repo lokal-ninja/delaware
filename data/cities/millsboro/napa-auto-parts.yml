@@ -1,11 +1,11 @@
 id: 494451956
-type: way
+type: node
 latitude: 38.58698
 longitude: -75.28952
 postcode: "19966"
 city: Millsboro
-street: "Union Street"
-housenumber: 422
+street: Union Street
+housenumber: "422"
 phone: ""
 opening_hours: ""
 website: ""

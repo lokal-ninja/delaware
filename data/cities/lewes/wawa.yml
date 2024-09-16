@@ -1,11 +1,11 @@
 id: 488342489
-type: way
+type: node
 latitude: 38.74402
 longitude: -75.15413
 postcode: "19958"
 city: Lewes
-street: "Dartmouth Drive"
-housenumber: 17663
-phone: "+1 302-645-5637"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/834"
+street: Dartmouth Drive
+housenumber: "17663"
+phone: +1 302-645-5637
+opening_hours: 24/7
+website: https://www.wawa.com/locations/834

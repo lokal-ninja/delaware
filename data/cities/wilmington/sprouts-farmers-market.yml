@@ -4,8 +4,8 @@ latitude: 39.82575
 longitude: -75.54299
 postcode: "19803"
 city: Wilmington
-street: "Concord Pike"
-housenumber: 4801
-phone: "+1 302-467-2344"
-opening_hours: "07:00-22:00"
-website: "https://www.sprouts.com/store/de/wilmington/wilmington"
+street: Concord Pike
+housenumber: "4801"
+phone: +1 302-467-2344
+opening_hours: 07:00-22:00
+website: https://www.sprouts.com/store/de/wilmington/wilmington

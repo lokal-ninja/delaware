@@ -1,11 +1,11 @@
 id: 790860290
-type: way
+type: node
 latitude: 39.66036
 longitude: -75.56489
 postcode: "19720"
 city: New Castle
-street: "Delaware Street"
-housenumber: 318
+street: Delaware Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
-website: "https://bridgewaterjewelers.com/"
+website: https://bridgewaterjewelers.com/

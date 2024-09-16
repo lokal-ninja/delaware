@@ -4,8 +4,8 @@ latitude: 39.6741
 longitude: -75.58707
 postcode: "19720"
 city: New Castle
-street: "East Basin Road"
-housenumber: 501
-phone: "+1 302-328-4173"
-opening_hours: "Tu-Th 08:00-21:00; Fr-Sa 08:00-22:00; Su 10:00-21:00"
-website: "https://www.riteaid.com/locations/de/new-castle/501-east-basin-road.html"
+street: East Basin Road
+housenumber: "501"
+phone: +1 302-328-4173
+opening_hours: Tu-Th 08:00-21:00; Fr-Sa 08:00-22:00; Su 10:00-21:00
+website: https://www.riteaid.com/locations/de/new-castle/501-east-basin-road.html

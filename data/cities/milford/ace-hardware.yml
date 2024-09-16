@@ -2,10 +2,10 @@ id: 6380712112
 type: node
 latitude: 38.91809
 longitude: -75.44259
-postcode: "19963-1098"
+postcode: 19963-1098
 city: Milford
-street: "North Dupont Boulevard"
-housenumber: 633
-phone: "+1 302-424-5414"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-17:00"
+street: North Dupont Boulevard
+housenumber: "633"
+phone: +1 302-424-5414
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-17:00
 website: ""

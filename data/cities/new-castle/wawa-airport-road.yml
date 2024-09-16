@@ -1,11 +1,11 @@
 id: 162861605
-type: way
+type: node
 latitude: 39.67656
 longitude: -75.62756
 postcode: "19720"
 city: New Castle
-street: "Airport Road"
-housenumber: 183
-phone: "+1-302-323-9822"
+street: Airport Road
+housenumber: "183"
+phone: +1-302-323-9822
 opening_hours: ""
 website: ""

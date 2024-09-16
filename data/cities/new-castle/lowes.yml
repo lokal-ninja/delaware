@@ -1,11 +1,11 @@
 id: 193807030
-type: way
+type: node
 latitude: 39.71455
 longitude: -75.56291
 postcode: "19720"
 city: New Castle
-street: "Hessler Boulevard"
-housenumber: 2225
-phone: "+1 302-252-3228"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/de-new-castle/2429"
+street: Hessler Boulevard
+housenumber: "2225"
+phone: +1 302-252-3228
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/de-new-castle/2429

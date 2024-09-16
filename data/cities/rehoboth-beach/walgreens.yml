@@ -1,11 +1,11 @@
 id: 361218164
-type: way
+type: node
 latitude: 38.72427
 longitude: -75.12253
 postcode: "19971"
 city: Rehoboth Beach
-street: "Munchy Branch Road"
-housenumber: 18993
+street: Munchy Branch Road
+housenumber: "18993"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-18993+munchy+branch+rd-rehoboth+beach-de-19971/id=11021"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-18993+munchy+branch+rd-rehoboth+beach-de-19971/id=11021

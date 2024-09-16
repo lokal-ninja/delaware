@@ -1,11 +1,12 @@
 id: 361353540
-type: way
+type: node
 latitude: 38.54359
 longitude: -75.08998
 postcode: "19970"
 city: Ocean View
-street: "Atlantic Avenue"
-housenumber: 54
-phone: "+1 302-537-4670"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-17:00 open Pharmacy || 07:00-23:00 open Store"
-website: "https://www.cvs.com/store-locator/ocean-view-de-pharmacies/54-atlantic-ave-ocean-view-de-19970/storeid=3902"
+street: Atlantic Avenue
+housenumber: "54"
+phone: +1 302-537-4670
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-17:00 open "Pharmacy" ||
+    07:00-23:00 open "Store"
+website: https://www.cvs.com/store-locator/ocean-view-de-pharmacies/54-atlantic-ave-ocean-view-de-19970/storeid=3902

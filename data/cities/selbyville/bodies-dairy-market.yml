@@ -1,11 +1,11 @@
 id: 311627618
-type: way
+type: node
 latitude: 38.45645
 longitude: -75.22863
 postcode: "19975"
 city: Selbyville
-street: "West Church Street"
-housenumber: 78
+street: West Church Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

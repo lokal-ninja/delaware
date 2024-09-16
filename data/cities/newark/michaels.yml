@@ -1,11 +1,11 @@
 id: 231167511
-type: way
+type: node
 latitude: 39.67635
 longitude: -75.6497
 postcode: "19702"
 city: Newark
-street: "Center Boulevard South"
-housenumber: 800
-phone: "+1 302-266-0515"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/de/newark/9917"
+street: Center Boulevard South
+housenumber: "800"
+phone: +1 302-266-0515
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/de/newark/9917

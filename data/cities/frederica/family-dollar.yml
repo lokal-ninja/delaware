@@ -1,11 +1,11 @@
 id: 1094033694
-type: way
+type: node
 latitude: 39.0072
 longitude: -75.4742
 postcode: "19946"
 city: Frederica
-street: "West Front Street"
-housenumber: 126
+street: West Front Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

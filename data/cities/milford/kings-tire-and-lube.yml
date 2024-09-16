@@ -1,11 +1,11 @@
 id: 1258912348
-type: way
+type: node
 latitude: 38.95259
 longitude: -75.42673
 postcode: "19963"
 city: Milford
-street: "Bay Road"
-housenumber: 955
+street: Bay Road
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

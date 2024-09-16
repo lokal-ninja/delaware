@@ -1,11 +1,11 @@
 id: 1210872409
-type: way
+type: node
 latitude: 39.79095
 longitude: -75.70216
 postcode: "19707"
 city: Hockessin
-street: "Lancaster Pike"
-housenumber: 7503
+street: Lancaster Pike
+housenumber: "7503"
 phone: ""
 opening_hours: ""
 website: ""

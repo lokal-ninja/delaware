@@ -1,11 +1,11 @@
 id: 71493407
-type: way
+type: node
 latitude: 39.78796
 longitude: -75.54554
 postcode: "19803"
 city: Fairfax
-street: "Concord Pike"
-housenumber: 1901
-phone: "+1 302-654-1803"
-opening_hours: "06:00-22:00"
-website: "https://local.acmemarkets.com/de/wilmington/1901-concord-pike.html"
+street: Concord Pike
+housenumber: "1901"
+phone: +1 302-654-1803
+opening_hours: 06:00-22:00
+website: https://local.acmemarkets.com/de/wilmington/1901-concord-pike.html

@@ -4,8 +4,8 @@ latitude: 39.66915
 longitude: -75.77996
 postcode: "19711"
 city: Newark
-street: "Suburban Drive"
-housenumber: 1000
-phone: "+1 302-369-7080"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Newark-DE/DE/Newark/19711/1610"
+street: Suburban Drive
+housenumber: "1000"
+phone: +1 302-369-7080
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Newark-DE/DE/Newark/19711/1610

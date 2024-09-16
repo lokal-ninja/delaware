@@ -1,11 +1,11 @@
 id: 1013244527
-type: way
+type: node
 latitude: 39.66395
 longitude: -75.56807
 postcode: "19720"
 city: New Castle
-street: "Ferry Cut Off Street"
-housenumber: 726
+street: Ferry Cut Off Street
+housenumber: "726"
 phone: "+13023280223"
 opening_hours: ""
 website: ""

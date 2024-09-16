@@ -1,11 +1,11 @@
 id: 1151505700
-type: way
+type: node
 latitude: 38.659
 longitude: -75.59327
 postcode: "19973"
 city: Seaford
-street: "Sussex Highway"
-housenumber: 22929
-phone: "+1 302-888-9442"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/874"
+street: Sussex Highway
+housenumber: "22929"
+phone: +1 302-888-9442
+opening_hours: 24/7
+website: https://www.wawa.com/locations/874

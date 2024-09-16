@@ -1,11 +1,11 @@
 id: 264201936
-type: way
+type: node
 latitude: 39.44642
 longitude: -75.73912
 postcode: "19709"
 city: Middletown
-street: "Middletown Warwick Road"
-housenumber: 705
-phone: "+1 302-449-1254"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3802/middletown-de/whats-new"
+street: Middletown Warwick Road
+housenumber: "705"
+phone: +1 302-449-1254
+opening_hours: 24/7
+website: https://www.walmart.com/store/3802/middletown-de/whats-new

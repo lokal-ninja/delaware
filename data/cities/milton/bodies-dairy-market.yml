@@ -1,11 +1,11 @@
 id: 586376166
-type: way
+type: node
 latitude: 38.77823
 longitude: -75.31257
 postcode: "19968"
 city: Milton
-street: "Magnolia Street"
-housenumber: 116
+street: Magnolia Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

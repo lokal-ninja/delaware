@@ -1,11 +1,11 @@
 id: 657504367
-type: way
+type: node
 latitude: 39.17822
 longitude: -75.52736
 postcode: "19901"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 654
-phone: "+1 302-674-4291"
+street: North Dupont Highway
+housenumber: "654"
+phone: +1 302-674-4291
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/de/dover/654-n-dupont-highway-36876"
+website: https://www.7-eleven.com/locations/de/dover/654-n-dupont-highway-36876

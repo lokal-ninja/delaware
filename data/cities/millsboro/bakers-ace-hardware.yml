@@ -1,11 +1,11 @@
 id: 460438326
-type: way
+type: node
 latitude: 38.58217
 longitude: -75.29171
 postcode: "19966"
 city: Millsboro
-street: "Dupont Boulevard"
-housenumber: 28547
-phone: "+1 302-934-7974"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
+street: Dupont Boulevard
+housenumber: "28547"
+phone: +1 302-934-7974
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00
 website: ""

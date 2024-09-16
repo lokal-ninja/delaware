@@ -4,8 +4,8 @@ latitude: 39.75468
 longitude: -75.56361
 postcode: "19806"
 city: Wilmington
-street: "Pennsylvania Avenue"
-housenumber: 1603
-phone: "302-656-3100"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00; Su off"
-website: "https://www.kiaofwilmington.com/"
+street: Pennsylvania Avenue
+housenumber: "1603"
+phone: 302-656-3100
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00; Su off
+website: https://www.kiaofwilmington.com/

@@ -1,11 +1,11 @@
 id: 230622132
-type: way
+type: node
 latitude: 38.5855
 longitude: -75.29648
 postcode: "19966"
 city: Millsboro
-street: "Laurel Road"
-housenumber: 101
+street: Laurel Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/de/millsboro/101-laurel-rd"
+website: https://stores.advanceautoparts.com/de/millsboro/101-laurel-rd

@@ -1,11 +1,11 @@
 id: 264201939
-type: way
+type: node
 latitude: 39.44779
 longitude: -75.73473
 postcode: "19709"
 city: Middletown
-street: "South Ridge Avenue"
-housenumber: 601
-phone: "+1 302-378-1620"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/de/middletown-1124.shtml"
+street: South Ridge Avenue
+housenumber: "601"
+phone: +1 302-378-1620
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/de/middletown-1124.shtml

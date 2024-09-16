@@ -1,11 +1,11 @@
 id: 1013248528
-type: way
+type: node
 latitude: 39.69152
 longitude: -75.55637
 postcode: "19720"
 city: New Castle
-street: "New Castle Avenue"
-housenumber: 2040
+street: New Castle Avenue
+housenumber: "2040"
 phone: "+13026557072"
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6470715533
 type: node
 latitude: 39.15929
 longitude: -75.55211
-postcode: "19904-7626"
+postcode: 19904-7626
 city: Dover
-street: "Independence Boulevard"
-housenumber: 321
-phone: "+1 302-674-9100"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+street: Independence Boulevard
+housenumber: "321"
+phone: +1 302-674-9100
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-18:00
 website: ""

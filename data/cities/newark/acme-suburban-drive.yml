@@ -1,11 +1,11 @@
 id: 644948886
-type: way
+type: node
 latitude: 39.66848
 longitude: -75.77581
 postcode: "19711"
 city: Newark
-street: "Suburban Drive"
-housenumber: 100
-phone: "+1 302-453-2330"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.acmemarkets.com/de/newark/100-suburban-dr.html"
+street: Suburban Drive
+housenumber: "100"
+phone: +1 302-453-2330
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.acmemarkets.com/de/newark/100-suburban-dr.html

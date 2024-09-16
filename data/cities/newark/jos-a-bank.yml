@@ -4,8 +4,8 @@ latitude: 39.69078
 longitude: -75.66007
 postcode: "19713"
 city: Newark
-street: "Churchmans Road"
-housenumber: 1235
-phone: "+1 302-737-6265"
-opening_hours: "Mo off; Tu-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.josbank.com/store-locator/newark-de-885"
+street: Churchmans Road
+housenumber: "1235"
+phone: +1 302-737-6265
+opening_hours: Mo off; Tu-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.josbank.com/store-locator/newark-de-885

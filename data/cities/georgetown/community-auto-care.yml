@@ -1,11 +1,11 @@
 id: 507040760
-type: way
+type: node
 latitude: 38.68261
 longitude: -75.39571
 postcode: "19947"
 city: Georgetown
-street: "West Market Street"
-housenumber: 514
+street: West Market Street
+housenumber: "514"
 phone: ""
 opening_hours: ""
-website: "https://communityautorepairgt.com/"
+website: https://communityautorepairgt.com/

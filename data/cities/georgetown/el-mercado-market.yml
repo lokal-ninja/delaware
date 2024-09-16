@@ -1,11 +1,11 @@
 id: 506189956
-type: way
+type: node
 latitude: 38.69246
 longitude: -75.38483
 postcode: "19947"
 city: Georgetown
-street: "Layton Avenue"
-housenumber: 15
+street: Layton Avenue
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

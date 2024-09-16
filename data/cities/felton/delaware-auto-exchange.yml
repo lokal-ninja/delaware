@@ -1,11 +1,11 @@
 id: 715470813
-type: way
+type: node
 latitude: 39.02476
 longitude: -75.56477
 postcode: "19943"
 city: Felton
-street: "South Dupont Highway"
-housenumber: 10182
+street: South Dupont Highway
+housenumber: "10182"
 phone: ""
 opening_hours: ""
-website: "https://www.delawareautoexchange.com/"
+website: https://www.delawareautoexchange.com/

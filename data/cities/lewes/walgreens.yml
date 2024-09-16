@@ -1,11 +1,11 @@
 id: 986912246
-type: way
+type: node
 latitude: 38.75134
 longitude: -75.16415
 postcode: "19958"
 city: Lewes
-street: "Five Points Square"
-housenumber: 17239
-phone: "+1 302 644 7840"
-opening_hours: "Mo-Su 00:00-12:00"
-website: "https://www.walgreens.com/locator/walgreens-17239+five+points+sq-lewes-de-19958/id=12752"
+street: Five Points Square
+housenumber: "17239"
+phone: +1 302 644 7840
+opening_hours: Mo-Su 00:00-12:00
+website: https://www.walgreens.com/locator/walgreens-17239+five+points+sq-lewes-de-19958/id=12752

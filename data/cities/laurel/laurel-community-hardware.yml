@@ -1,11 +1,11 @@
 id: 469908097
-type: way
+type: node
 latitude: 38.55021
 longitude: -75.56892
 postcode: "19956"
 city: Laurel
-street: "South Central Avenue"
-housenumber: 1001
+street: South Central Avenue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

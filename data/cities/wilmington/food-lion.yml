@@ -1,11 +1,11 @@
 id: 689237476
-type: way
+type: node
 latitude: 39.75342
 longitude: -75.5108
 postcode: "19802"
 city: Wilmington
-street: "Governor Printz Boulevard"
-housenumber: 4401
-phone: "+1 302-762-2567"
-opening_hours: "07:00-23:00"
-website: "https://stores.foodlion.com/de/wilmington/4401-governor-printz-blvd"
+street: Governor Printz Boulevard
+housenumber: "4401"
+phone: +1 302-762-2567
+opening_hours: 07:00-23:00
+website: https://stores.foodlion.com/de/wilmington/4401-governor-printz-blvd

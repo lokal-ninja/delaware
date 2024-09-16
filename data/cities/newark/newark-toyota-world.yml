@@ -1,11 +1,11 @@
 id: 48431356
-type: way
+type: node
 latitude: 39.68253
 longitude: -75.73061
 postcode: "19711"
 city: Newark
-street: "Marrows Road"
-housenumber: 1344
+street: Marrows Road
+housenumber: "1344"
 phone: ""
 opening_hours: ""
 website: ""

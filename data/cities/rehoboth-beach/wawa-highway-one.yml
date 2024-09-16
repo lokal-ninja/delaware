@@ -1,11 +1,11 @@
 id: 386735181
-type: way
+type: node
 latitude: 38.7314
 longitude: -75.13204
 postcode: "19971"
 city: Rehoboth Beach
-street: "Highway One"
-housenumber: 4500
-phone: "+1 302-644-4210"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/849"
+street: Highway One
+housenumber: "4500"
+phone: +1 302-644-4210
+opening_hours: 24/7
+website: https://www.wawa.com/locations/849

@@ -1,11 +1,11 @@
 id: 467578261
-type: way
+type: node
 latitude: 38.69715
 longitude: -75.39413
 postcode: "19947"
 city: Georgetown
-street: "North Bedford Street"
-housenumber: 515
+street: North Bedford Street
+housenumber: "515"
 phone: ""
 opening_hours: ""
-website: "https://www.floydamegeemotor.com/"
+website: https://www.floydamegeemotor.com/

@@ -1,11 +1,11 @@
 id: 681259266
-type: way
+type: node
 latitude: 38.93013
 longitude: -75.43052
 postcode: "19963"
 city: Milford
-street: "North Dupont Boulevard"
-housenumber: 914
+street: North Dupont Boulevard
+housenumber: "914"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/de/milford/914-n-dupont-blvd.html"
+website: https://www.autozone.com/locations/de/milford/914-n-dupont-blvd.html

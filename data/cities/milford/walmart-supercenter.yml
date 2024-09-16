@@ -1,11 +1,11 @@
 id: 635830530
-type: way
+type: node
 latitude: 38.92868
 longitude: -75.43418
 postcode: "19963"
 city: Milford
-street: "North Dupont Boulevard"
-housenumber: 939
-phone: "+1 302-422-2854"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1741/milford-de/whats-new"
+street: North Dupont Boulevard
+housenumber: "939"
+phone: +1 302-422-2854
+opening_hours: 24/7
+website: https://www.walmart.com/store/1741/milford-de/whats-new

@@ -4,8 +4,8 @@ latitude: 39.66942
 longitude: -75.66562
 postcode: "19702"
 city: Christiana
-street: "West Main Street"
-housenumber: 323
-phone: "+1 833-460-7143"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/de/christiana/323-west-main-street"
+street: West Main Street
+housenumber: "323"
+phone: +1 833-460-7143
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/de/christiana/323-west-main-street

@@ -1,11 +1,11 @@
 id: 864056584
-type: way
+type: node
 latitude: 38.80951
 longitude: -75.59385
 postcode: "19950"
 city: Greenwood
-street: "North Church Street"
-housenumber: 108
+street: North Church Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

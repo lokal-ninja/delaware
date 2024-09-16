@@ -1,11 +1,11 @@
 id: 729719590
-type: way
+type: node
 latitude: 39.11473
 longitude: -75.53861
 postcode: "19934"
 city: Camden
-street: "Old North Road"
-housenumber: 2500
+street: Old North Road
+housenumber: "2500"
 phone: ""
 opening_hours: ""
 website: ""

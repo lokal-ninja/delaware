@@ -1,11 +1,11 @@
 id: 818231710
-type: way
+type: node
 latitude: 38.73359
 longitude: -75.24338
 postcode: "19968"
 city: Milton
-street: "Lewes Georgetown Highway"
-housenumber: 28615
-phone: "+1 302-664-1188"
+street: Lewes Georgetown Highway
+housenumber: "28615"
+phone: +1 302-664-1188
 opening_hours: ""
-website: "https://brimminghornmeadery.com/"
+website: https://brimminghornmeadery.com/

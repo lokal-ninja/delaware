@@ -1,11 +1,11 @@
 id: 550138094
-type: way
+type: node
 latitude: 39.66401
 longitude: -75.68844
 postcode: "19702"
 city: Newark
-street: "JFK Memorial"
-housenumber: 520
+street: JFK Memorial
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

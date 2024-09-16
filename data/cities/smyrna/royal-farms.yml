@@ -1,11 +1,11 @@
 id: 804301445
-type: way
+type: node
 latitude: 39.30651
 longitude: -75.60624
 postcode: "19977"
 city: Smyrna
-street: "North Dupont Boulevard"
-housenumber: 240
+street: North Dupont Boulevard
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

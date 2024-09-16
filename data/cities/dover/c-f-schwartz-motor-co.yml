@@ -1,11 +1,11 @@
 id: 350695123
-type: way
+type: node
 latitude: 39.19434
 longitude: -75.54941
 postcode: "19904"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 1536
+street: North Dupont Highway
+housenumber: "1536"
 phone: ""
-opening_hours: "8:00-20:00"
+opening_hours: 8:00-20:00
 website: ""

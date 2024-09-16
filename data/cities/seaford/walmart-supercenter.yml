@@ -1,11 +1,11 @@
 id: 469091497
-type: way
+type: node
 latitude: 38.66089
 longitude: -75.59111
 postcode: "19973"
 city: Seaford
-street: "Sussex Highway"
-housenumber: 22899
-phone: "+1 302-628-1668"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2460/seaford-de/whats-new"
+street: Sussex Highway
+housenumber: "22899"
+phone: +1 302-628-1668
+opening_hours: 24/7
+website: https://www.walmart.com/store/2460/seaford-de/whats-new

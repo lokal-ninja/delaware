@@ -1,11 +1,11 @@
 id: 667571510
-type: way
+type: node
 latitude: 39.774
 longitude: -75.71397
 postcode: "19707"
 city: Hockessin
-street: "Limestone Road"
-housenumber: 6303
-phone: "+1 302-239-5478"
-opening_hours: "Mo-We 09:00-20:00; Th-Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://timsliquors.com"
+street: Limestone Road
+housenumber: "6303"
+phone: +1 302-239-5478
+opening_hours: Mo-We 09:00-20:00; Th-Sa 09:00-21:00; Su 11:00-18:00
+website: https://timsliquors.com

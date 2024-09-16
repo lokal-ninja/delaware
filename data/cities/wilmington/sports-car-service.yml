@@ -1,11 +1,11 @@
 id: 689519776
-type: way
+type: node
 latitude: 39.76057
 longitude: -75.52412
 postcode: "19802"
 city: Wilmington
-street: "North Market Street"
-housenumber: 3901
+street: North Market Street
+housenumber: "3901"
 phone: ""
 opening_hours: ""
-website: "http://sportscarservice.com/"
+website: http://sportscarservice.com/

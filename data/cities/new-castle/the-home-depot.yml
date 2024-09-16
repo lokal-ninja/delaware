@@ -1,11 +1,11 @@
 id: 545569285
-type: way
+type: node
 latitude: 39.66946
 longitude: -75.59709
 postcode: "19720"
 city: New Castle
-street: "Sunset Boulevard"
-housenumber: 138
-phone: "+1 302-395-1260"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/New-Castle/DE/New-Castle/19720/1605"
+street: Sunset Boulevard
+housenumber: "138"
+phone: +1 302-395-1260
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/New-Castle/DE/New-Castle/19720/1605

@@ -1,11 +1,11 @@
 id: 738277706
-type: way
+type: node
 latitude: 39.30074
 longitude: -75.60641
 postcode: "19977"
 city: Smyrna
-street: "West Commerce Street"
-housenumber: 1
-phone: "302-508-0111"
-opening_hours: "Mo-Fr 15:30-20:00"
-website: "https://www.smyrnamusic.com"
+street: West Commerce Street
+housenumber: "1"
+phone: 302-508-0111
+opening_hours: Mo-Fr 15:30-20:00
+website: https://www.smyrnamusic.com

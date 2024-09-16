@@ -1,11 +1,11 @@
 id: 350688539
-type: way
+type: node
 latitude: 39.18428
 longitude: -75.52895
 postcode: "19901"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 801
-phone: "+1 302-735-8864"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/dover-de/de/dover/19901/1608"
+street: North Dupont Highway
+housenumber: "801"
+phone: +1 302-735-8864
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/dover-de/de/dover/19901/1608

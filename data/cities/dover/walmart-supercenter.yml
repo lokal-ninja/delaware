@@ -1,11 +1,11 @@
 id: 332741684
-type: way
+type: node
 latitude: 39.21719
 longitude: -75.56986
 postcode: "19901"
 city: Dover
-street: "Jerome Drive"
-housenumber: 36
-phone: "+1 302-674-2159"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1736/dover-de/whats-new"
+street: Jerome Drive
+housenumber: "36"
+phone: +1 302-674-2159
+opening_hours: 24/7
+website: https://www.walmart.com/store/1736/dover-de/whats-new

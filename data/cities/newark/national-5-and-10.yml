@@ -4,8 +4,8 @@ latitude: 39.68333
 longitude: -75.75074
 postcode: "19711"
 city: Newark
-street: "East Main Street"
-housenumber: 66
-phone: "+1-302-368-1646"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 11:00-17:00"
+street: East Main Street
+housenumber: "66"
+phone: +1-302-368-1646
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 11:00-17:00
 website: ""

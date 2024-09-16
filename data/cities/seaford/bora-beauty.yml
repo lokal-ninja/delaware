@@ -1,11 +1,11 @@
 id: 670547115
-type: way
+type: node
 latitude: 38.64509
 longitude: -75.60922
 postcode: "19973"
 city: Seaford
-street: "North Front Street"
-housenumber: 302
+street: North Front Street
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

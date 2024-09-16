@@ -1,11 +1,11 @@
 id: 846703950
-type: way
+type: node
 latitude: 39.16382
 longitude: -75.51678
-postcode: "19901-4261"
+postcode: 19901-4261
 city: Dover
-street: "North Dupont Highway"
-housenumber: 10
-phone: "+1 833-471-7119"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://stores.aldi.us/de/dover/10-dupont-highway-(bldg-5)"
+street: North Dupont Highway
+housenumber: "10"
+phone: +1 833-471-7119
+opening_hours: Mo-Su 08:00-20:00
+website: https://stores.aldi.us/de/dover/10-dupont-highway-(bldg-5)

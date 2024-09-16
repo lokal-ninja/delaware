@@ -1,11 +1,11 @@
 id: 846703981
-type: way
+type: node
 latitude: 39.16695
 longitude: -75.5183
 postcode: "19901"
 city: Dover
-street: "North Dupont Highway"
-housenumber: 150
-phone: "+1 844-747-5435"
+street: North Dupont Highway
+housenumber: "150"
+phone: +1 844-747-5435
 opening_hours: ""
 website: ""

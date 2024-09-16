@@ -1,11 +1,11 @@
 id: 305820826
-type: way
+type: node
 latitude: 38.57288
 longitude: -75.28977
 postcode: "19966"
 city: Millsboro
-street: "Centerview Drive"
-housenumber: 26676
+street: Centerview Drive
+housenumber: "26676"
 phone: ""
 opening_hours: ""
 website: ""

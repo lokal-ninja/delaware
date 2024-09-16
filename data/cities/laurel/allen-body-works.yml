@@ -1,11 +1,11 @@
 id: 1226896149
-type: way
+type: node
 latitude: 38.56275
 longitude: -75.57055
 postcode: "19956"
 city: Laurel
-street: "Filbert Street"
-housenumber: 100
+street: Filbert Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

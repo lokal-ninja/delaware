@@ -1,11 +1,11 @@
 id: 65726710
-type: way
+type: node
 latitude: 39.6017
 longitude: -75.7512
 postcode: "19702"
 city: Newark
-street: "Peoples Plaza"
-housenumber: 2000
-phone: "+1 302-838-6818"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Glasgow/DE/Newark/19702/1603"
+street: Peoples Plaza
+housenumber: "2000"
+phone: +1 302-838-6818
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Glasgow/DE/Newark/19702/1603

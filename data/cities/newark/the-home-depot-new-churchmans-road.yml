@@ -1,11 +1,11 @@
 id: 164257256
-type: way
+type: node
 latitude: 39.69263
 longitude: -75.6627
 postcode: "19713"
 city: Newark
-street: "New Churchmans Road"
-housenumber: 1301
-phone: "+1 302-369-6713"
-opening_hours: "Mo 09:00-20:00; Tu-Sa 06:00-21:00; Su 07:00-18:00"
-website: "https://www.homedepot.com/l/Christiana/DE/Newark/19713/1601"
+street: New Churchmans Road
+housenumber: "1301"
+phone: +1 302-369-6713
+opening_hours: Mo 09:00-20:00; Tu-Sa 06:00-21:00; Su 07:00-18:00
+website: https://www.homedepot.com/l/Christiana/DE/Newark/19713/1601

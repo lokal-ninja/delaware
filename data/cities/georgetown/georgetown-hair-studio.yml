@@ -1,11 +1,11 @@
 id: 997313622
-type: way
+type: node
 latitude: 38.69272
 longitude: -75.3828
 postcode: "19947"
 city: Georgetown
-street: "East Market Street"
-housenumber: 219
+street: East Market Street
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

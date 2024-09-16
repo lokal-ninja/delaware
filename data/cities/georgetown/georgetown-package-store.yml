@@ -1,11 +1,11 @@
 id: 1103709732
-type: way
+type: node
 latitude: 38.6964
 longitude: -75.39284
 postcode: "19947"
 city: Georgetown
-street: "North Bedford Street"
-housenumber: 502
+street: North Bedford Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544170592
-type: way
+type: node
 latitude: 39.82295
 longitude: -75.48496
 postcode: "19810"
 city: Wilmington
-street: "Naamans Road"
-housenumber: 1601
-phone: "+1 302-246-1933"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1601+naamans+rd-wilmington-de-19810/id=12695"
+street: Naamans Road
+housenumber: "1601"
+phone: +1 302-246-1933
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1601+naamans+rd-wilmington-de-19810/id=12695

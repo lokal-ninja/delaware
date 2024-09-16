@@ -1,11 +1,11 @@
 id: 571794720
-type: way
+type: node
 latitude: 39.82253
 longitude: -75.48784
 postcode: "19810"
 city: Wilmington
-street: "Naamans Road"
-housenumber: 1702
-phone: "+1 302-475-4000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.ronsdiscounttires.com/"
+street: Naamans Road
+housenumber: "1702"
+phone: +1 302-475-4000
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.ronsdiscounttires.com/

@@ -1,11 +1,11 @@
 id: 121936195
-type: way
+type: node
 latitude: 39.60801
 longitude: -75.72048
 postcode: "19702"
 city: Newark
-street: "Pulaski Highway"
-housenumber: 2043
+street: Pulaski Highway
+housenumber: "2043"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 996944642
-type: way
+type: node
 latitude: 39.43755
 longitude: -75.74716
 postcode: "19709"
 city: Middletown
-street: "Patriot Drive"
-housenumber: 106
+street: Patriot Drive
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

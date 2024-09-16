@@ -4,8 +4,8 @@ latitude: 39.44941
 longitude: -75.71596
 postcode: "19709"
 city: Middletown
-street: "East Main Street"
-housenumber: 12
+street: East Main Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.specs123.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.specs123.com/

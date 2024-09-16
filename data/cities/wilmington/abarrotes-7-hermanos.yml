@@ -1,11 +1,11 @@
 id: 1242175156
-type: way
+type: node
 latitude: 39.71522
 longitude: -75.64264
 postcode: "19804"
 city: Wilmington
-street: "West Newport Pike"
-housenumber: 2305
-phone: "+1-302-633-3337"
-opening_hours: "Mo-Su 09:00-22:00"
+street: West Newport Pike
+housenumber: "2305"
+phone: +1-302-633-3337
+opening_hours: Mo-Su 09:00-22:00
 website: ""

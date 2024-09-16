@@ -1,11 +1,11 @@
 id: 262117166
-type: way
+type: node
 latitude: 38.71603
 longitude: -75.07967
 postcode: ""
 city: Rehoboth Beach
 street: ""
-housenumber: 120
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

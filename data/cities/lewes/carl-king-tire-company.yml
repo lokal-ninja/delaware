@@ -1,11 +1,11 @@
 id: 729448107
-type: way
+type: node
 latitude: 38.74948
 longitude: -75.17573
 postcode: "19958"
 city: Lewes
-street: "Tulip Drive"
-housenumber: 96
+street: Tulip Drive
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 940612577
-type: way
+type: node
 latitude: 39.69309
 longitude: -75.65437
 postcode: "19713"
 city: Newark
-street: "Stanton Christiana Road"
-housenumber: 457
+street: Stanton Christiana Road
+housenumber: "457"
 phone: ""
 opening_hours: ""
 website: ""

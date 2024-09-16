@@ -1,11 +1,11 @@
 id: 997606675
-type: way
+type: node
 latitude: 38.74729
 longitude: -75.17932
-postcode: "19958-1646"
+postcode: 19958-1646
 city: Lewes
-street: "Lewes Georgetown Highway"
-housenumber: 32437
-phone: "+1 302-645-6658"
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
-website: "https://www.bestace.com/"
+street: Lewes Georgetown Highway
+housenumber: "32437"
+phone: +1 302-645-6658
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
+website: https://www.bestace.com/

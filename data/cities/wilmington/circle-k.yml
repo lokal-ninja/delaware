@@ -1,11 +1,11 @@
 id: 47569872
-type: way
+type: node
 latitude: 39.78615
 longitude: -75.54544
 postcode: "19803"
 city: Wilmington
-street: "Concord Pike"
-housenumber: 1801
-phone: "+1 302 652 2034"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/wilmington/1801-concord-pike/2655768"
+street: Concord Pike
+housenumber: "1801"
+phone: +1 302 652 2034
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/wilmington/1801-concord-pike/2655768

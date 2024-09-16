@@ -1,11 +1,11 @@
 id: 518485261
-type: way
+type: node
 latitude: 38.72619
 longitude: -75.59175
 postcode: "19933"
 city: Bridgeville
-street: "Sussex Highway"
-housenumber: 18586
-phone: "+1 302-337-7424"
-opening_hours: "24/7"
-website: "https://www.wawa.com/locations/864"
+street: Sussex Highway
+housenumber: "18586"
+phone: +1 302-337-7424
+opening_hours: 24/7
+website: https://www.wawa.com/locations/864

@@ -4,8 +4,8 @@ latitude: 39.68265
 longitude: -75.73534
 postcode: "19711"
 city: Newark
-street: "College Square"
-housenumber: 100
-phone: "+1 302-286-0425"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.acmemarkets.com/de/newark/100-college-square.html"
+street: College Square
+housenumber: "100"
+phone: +1 302-286-0425
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.acmemarkets.com/de/newark/100-college-square.html

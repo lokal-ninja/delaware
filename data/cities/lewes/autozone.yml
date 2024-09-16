@@ -1,11 +1,11 @@
 id: 728883969
-type: way
+type: node
 latitude: 38.74918
 longitude: -75.16873
 postcode: "19958"
 city: Lewes
-street: "Coastal Highway"
-housenumber: 17469
+street: Coastal Highway
+housenumber: "17469"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/de/lewes/17649-coastal-hwy.html"
+website: https://www.autozone.com/locations/de/lewes/17649-coastal-hwy.html

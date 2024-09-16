@@ -1,11 +1,11 @@
 id: 233536787
-type: way
+type: node
 latitude: 38.47436
 longitude: -75.10657
 postcode: "19975"
 city: Selbyville
-street: "Lion Drive"
-housenumber: 37468
+street: Lion Drive
+housenumber: "37468"
 phone: ""
 opening_hours: ""
-website: "https://www.foodlion.com/"
+website: https://www.foodlion.com/

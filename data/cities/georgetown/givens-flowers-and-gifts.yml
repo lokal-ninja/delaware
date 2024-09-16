@@ -1,11 +1,11 @@
 id: 305812236
-type: way
+type: node
 latitude: 38.69181
 longitude: -75.3844
 postcode: "19947"
 city: Georgetown
-street: "East Market Street"
-housenumber: 135
-phone: "+1 302-856-9174"
+street: East Market Street
+housenumber: "135"
+phone: +1 302-856-9174
 opening_hours: ""
-website: "https://www.givensflowersandgifts.com/"
+website: https://www.givensflowersandgifts.com/

@@ -1,11 +1,11 @@
 id: 803752857
-type: way
+type: node
 latitude: 39.22201
 longitude: -75.57907
 postcode: "19936"
 city: Cheswold
-street: "Main Street"
-housenumber: 670
+street: Main Street
+housenumber: "670"
 phone: ""
 opening_hours: ""
 website: ""

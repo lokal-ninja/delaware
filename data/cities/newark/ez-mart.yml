@@ -1,11 +1,11 @@
 id: 669605851
-type: way
+type: node
 latitude: 39.67944
 longitude: -75.75965
 postcode: "19711"
 city: Newark
-street: "South Main Street"
-housenumber: 121
+street: South Main Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

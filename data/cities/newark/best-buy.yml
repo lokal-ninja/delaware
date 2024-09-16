@@ -4,8 +4,8 @@ latitude: 39.67252
 longitude: -75.64708
 postcode: "19702"
 city: Newark
-street: "Fashion Center Boulevard"
-housenumber: 2700
-phone: "+1 302-369-7015"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/de/newark/2700-fashion-center-blvd-1480.html"
+street: Fashion Center Boulevard
+housenumber: "2700"
+phone: +1 302-369-7015
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/de/newark/2700-fashion-center-blvd-1480.html
