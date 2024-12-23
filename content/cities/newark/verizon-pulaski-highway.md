@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /newark/verizon-churchmans-road/
+url: /newark/verizon-pulaski-highway/
 shop: mobile phone
 ---
