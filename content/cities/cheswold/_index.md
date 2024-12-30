@@ -1,6 +1,6 @@
 ---
 title: Cheswold
 url: /cheswold/
-latitude: 39.222
-longitude: -75.579
+latitude: 39.22
+longitude: -75.581
 ---
