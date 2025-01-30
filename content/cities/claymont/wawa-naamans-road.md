@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /millsboro/wawa-dupont-boulevard/
+url: /claymont/wawa-naamans-road/
 shop: convenience
 ---
