@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /wilmington/staples-concord-pike/
+url: /wilmington/staples-kirkwood-highway/
 shop: office supplies
 ---
