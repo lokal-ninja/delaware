@@ -1,6 +1,6 @@
 ---
 title: Millsboro
 url: /millsboro/
-latitude: 38.626
-longitude: -75.196
+latitude: 38.576
+longitude: -75.289
 ---
