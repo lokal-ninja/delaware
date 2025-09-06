@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /wilmington/dollar-tree-miller-road/
+url: /wilmington/dollar-tree-kirkwood-highway/
 shop: variety store
 ---
