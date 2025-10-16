@@ -1,5 +1,5 @@
 ---
 title: "APlus"
-url: /newark/aplus-jfk-memorial/
+url: /newark/aplus-south-main-street/
 shop: convenience
 ---

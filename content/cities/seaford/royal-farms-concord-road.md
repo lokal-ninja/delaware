@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /seaford/royal-farms-high-street/
+url: /seaford/royal-farms-concord-road/
 shop: convenience
 ---
