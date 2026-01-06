@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /wilmington/dollar-general-3/
+url: /seaford/dollar-general-2/
 shop: variety store
 ---

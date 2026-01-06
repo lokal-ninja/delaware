@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /seaford/dollar-general-north-porter-street/
+url: /wilmington/dollar-general-kirkwood-highway/
 shop: variety store
 ---
