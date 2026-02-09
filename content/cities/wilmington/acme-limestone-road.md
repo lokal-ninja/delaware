@@ -1,5 +1,5 @@
 ---
 title: "Acme"
-url: /wilmington/acme-naamans-road/
+url: /wilmington/acme-limestone-road/
 shop: supermarket
 ---
