@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /millsboro/verizon-dupont-boulevard/
+url: /millsboro/verizon-washington-street/
 shop: mobile phone
 ---
