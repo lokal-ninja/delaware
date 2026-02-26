@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /seaford/dollar-general-north-porter-street/
+url: /seaford/dollar-general-2/
 shop: variety store
 ---
