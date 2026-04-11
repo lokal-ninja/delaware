@@ -1,5 +1,5 @@
 ---
 title: "Royal Farms"
-url: /millsboro/royal-farms-commerce-drive/
+url: /wilmington/royal-farms/
 shop: convenience
 ---
