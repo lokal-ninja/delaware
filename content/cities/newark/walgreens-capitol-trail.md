@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /newark/walgreens-pulaski-highway/
+url: /newark/walgreens-capitol-trail/
 shop: chemist
 ---
