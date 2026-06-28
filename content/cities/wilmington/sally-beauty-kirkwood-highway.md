@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
-url: /wilmington/sally-beauty-concord-pike/
+url: /wilmington/sally-beauty-kirkwood-highway/
 shop: hairdresser supply
 ---
