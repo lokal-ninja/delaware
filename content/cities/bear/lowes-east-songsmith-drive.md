@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /bear/lowes-eden-circle/
+url: /bear/lowes-east-songsmith-drive/
 shop: doityourself
 ---
