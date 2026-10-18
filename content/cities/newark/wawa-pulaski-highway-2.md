@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
-url: /claymont/wawa-philadelphia-pike/
+url: /newark/wawa-pulaski-highway-2/
 shop: convenience
 ---
