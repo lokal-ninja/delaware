@@ -1,6 +1,6 @@
 ---
 title: New Castle
 url: /new-castle/
-latitude: 39.613
-longitude: -75.656
+latitude: 39.692
+longitude: -75.581
 ---
