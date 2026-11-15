@@ -1,6 +1,6 @@
 ---
 title: Talleyville
 url: /talleyville/
-latitude: 39.799
-longitude: -75.549
+latitude: 39.81
+longitude: -75.551
 ---
